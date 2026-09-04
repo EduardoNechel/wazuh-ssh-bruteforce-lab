@@ -34,8 +34,6 @@ Non existent user.
 
 ## Evidências
 
-<img width="960" height="311" alt="WhatsApp Image 2026-09-04 at 14 31 12" src="https://github.com/user-attachments/assets/3d61102d-57b0-4df9-bc42-9da132eab561" />
-<img width="960" height="813" alt="WhatsApp Image 2026-09-04 at 14 30 57" src="https://github.com/user-attachments/assets/f50808c9-d036-49ad-96ba-e79464061793" />
 
 
 ## Análise
