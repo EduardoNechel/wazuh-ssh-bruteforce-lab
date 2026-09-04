@@ -34,7 +34,13 @@ Non existent user.
 
 ## Evidências
 
+## Evidências
 
+### 1. Simulação do ataque
+![Terminal com brute force SSH](WhatsAppImage2026-09-04at14.31.12.jpeg)
+
+### 2. Detecção no Wazuh - Rule 5712 Level 10
+![Alerta Wazuh detectando brute force](WhatsAppImage2026-09-04at14.30.57.jpeg)
 
 ## Análise
 
