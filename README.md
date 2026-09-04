@@ -34,13 +34,13 @@ Non existent user.
 
 ## Evidências
 
-## Evidências
-
 ### 1. Simulação do ataque
-[![Terminal com brute force SSH](WhatsAppImage2026-09-04at14.31.12.jpeg)](https://github.com/EduardoNechel/wazuh-ssh-bruteforce-lab/blob/82456b2e477c901f351f6e93e25d729abd382016/WhatsApp%20Image%202026-09-04%20at%2014.31.12.jpeg)
+<img width="960" height="311" alt="WhatsApp Image 2026-09-04 at 14 31 12" src="https://github.com/user-attachments/assets/eb2c6b47-f6ef-41fe-8a60-5e90035797d6" />
+
 
 ### 2. Detecção no Wazuh - Rule 5712 Level 10
-[![Alerta Wazuh detectando brute force](WhatsAppImage2026-09-04at14.30.57.jpeg)](https://github.com/EduardoNechel/wazuh-ssh-bruteforce-lab/blob/82456b2e477c901f351f6e93e25d729abd382016/WhatsApp%20Image%202026-09-04%20at%2014.30.57.jpeg)
+<img width="960" height="813" alt="WhatsApp Image 2026-09-04 at 14 30 57" src="https://github.com/user-attachments/assets/5942a078-b9cf-4132-a1f0-0fa0575d20eb" />
+
 
 ## Análise
 
